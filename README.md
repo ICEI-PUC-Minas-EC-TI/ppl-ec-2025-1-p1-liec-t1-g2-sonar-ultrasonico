@@ -1,25 +1,26 @@
 # TÍTULO DO PROJETO
 
-`CAMPUS/UNIDADE`
+`LOURDES`
 
-`CURSO`
+`ENGENHARIA DA COMPUTAÇÃO`
 
-`SEMESTRE`
+`1º SEMESTRE`
 
-`DISCIPLINA`
+`LABORÁTORIO DE INTRODUÇÃO Á ENGENHARIA DA COMPUTAÇÃO`
 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* RAFAEL LUIZ DOS SANTOS LOPES 
+* AMANDA RACHIDE
+* MATEUS COELHO PIRES
+* CAIO MARTINS MONTANDON
+* GABRIEL HENRIQUE COSTA SOARES
 
-## Orientador
+## Orientadores
 
-* Nome completo do professor 1
+* FELIPE LARA
+* CRISTIANO NEVES
 
 ## Resumo
 
