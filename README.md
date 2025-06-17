@@ -26,7 +26,7 @@
 
 ## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O intuito do projeto é criar, utilizando de um Arduíno MEGA e do website Tinkercad, um sonar ultrassônico e um aplicativo de celular que mostre as leituras obtidas conforme elas são feitas.
 
 # Código (do arduino ou esp32)
 
