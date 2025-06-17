@@ -1,12 +1,12 @@
-# TÍTULO DO PROJETO
+# Sonar ultrassônico
 
-`LOURDES`
+`Campus Lourdes`
 
-`ENGENHARIA DA COMPUTAÇÃO`
+`Engenharia de Computação`
 
-`1º SEMESTRE`
+`2025/1º Período`
 
-`LABORÁTORIO DE INTRODUÇÃO Á ENGENHARIA DA COMPUTAÇÃO`
+`Laboratório de Introdução à Engenharia de Computação`
 
 
 ## Integrantes
