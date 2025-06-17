@@ -26,8 +26,9 @@
 
 ## Resumo
 
-  O intuito do projeto é criar, utilizando de um Arduíno MEGA e do website Tinkercad, um sonar ultrassônico e um aplicativo de celular que mostre as leituras obtidas conforme elas são feitas.\
-  O sonar fica naturalmente com um LED verde ligado e com o sensor rodando, e quando detectar um objeto, o LED se apagará e um vermelho acenderá em seu lugar. Além disso, um buzzer apitará, indicando que algum objeto ou ser entrou em seu alcance.
+O intuito do projeto é criar, utilizando de um Arduíno MEGA e do website Tinkercad, um sonar ultrassônico e um aplicativo de celular que mostre as leituras obtidas conforme elas são feitas.
+  
+O sonar fica naturalmente com um LED verde ligado e com o sensor rodando, e quando detectar um objeto, o LED se apagará e um vermelho acenderá em seu lugar. Além disso, um buzzer apitará, indicando que algum objeto ou ser entrou em seu alcance.
 
 # Código
 
