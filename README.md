@@ -11,16 +11,18 @@
 
 ## Integrantes
 
-* RAFAEL LUIZ DOS SANTOS LOPES 
-* AMANDA RACHIDE
-* MATEUS COELHO PIRES
-* CAIO MARTINS MONTANDON
-* GABRIEL HENRIQUE COSTA SOARES
+* Amanda Rachide
+* Bruna Nathalia Vicente Santiago
+* Caio Martins Montandon
+* Gabriel Henrique Costa Soares
+* Gustavo Moraes Ferreira
+* Mateus Coelho Pires
+* Rafael Luiz dos Santos Lopes
 
 ## Orientadores
 
-* FELIPE LARA
-* CRISTIANO NEVES
+* Felipe Augusto Lara Soares
+* Cristiano Neves Rodrigues
 
 ## Resumo
 
