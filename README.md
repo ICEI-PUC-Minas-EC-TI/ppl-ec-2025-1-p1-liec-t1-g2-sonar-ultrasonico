@@ -1,6 +1,6 @@
 # Sonar ultrassônico
 
-`Campus Lourdes`
+`PUC Minas - Campus Lourdes`
 
 `Engenharia de Computação`
 
