@@ -3,18 +3,31 @@
 Os materiais utilizados no projeto foram:
 
 1 placa Arduino UNO (simulado via Tinkercad);
+
 1 sensor ultrassônico HC-SR04;
+
 1 LED vermelho (indica obstáculo detectado);
+
 1 LED verde (indica caminho livre);
+
 2 resistores de 220Ω;
+
 1 buzzer (ativo);
+
 Jumpers (fios de conexão);
+
 Garrafa PET (estrutura do submarino);
+
 Cola quente e fita adesiva;
+
 Software Arduino IDE;
+
 Plataforma Tinkercad (simulação do circuito);
+
 MIT App Inventor (desenvolvimento do aplicativo);
+
 Cabo USB (para alimentação e testes físicos).
+
 
 # Desenvolvimento
 
@@ -59,13 +72,21 @@ Ler a distância com o sensor HC-SR04;
 Ativar o LED verde quando a distância estiver segura (por exemplo, acima de 15 cm);
 Ativar o LED vermelho e o buzzer quando a distância estiver abaixo do limite (por exemplo, menor que 15 cm);
 Enviar os dados via Serial/Bluetooth para o aplicativo desenvolvido no App Inventor, utilizando comandos Serial.print().
+
 if (distancia < 15) {
+
   digitalWrite(ledVermelho, HIGH);
+  
   digitalWrite(ledVerde, LOW);
+  
   digitalWrite(buzzer, HIGH);
+  
 } else {
+
   digitalWrite(ledVermelho, LOW);
+  
   digitalWrite(ledVerde, HIGH);
+  
   digitalWrite(buzzer, LOW);
 }
 
